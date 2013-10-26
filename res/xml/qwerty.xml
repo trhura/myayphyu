@@ -26,7 +26,9 @@
     >
 
     <Row>
-        <Key android:codes="4102" android:keyLabel="ဆ" android:keyEdgeFlags="left"/>
+        <Key android:codes="4102"
+             android:keyIcon="@drawable/char4102"
+             android:keyEdgeFlags="left"/>
         <Key android:codes="4112" android:keyLabel="တ"/>
         <Key android:codes="4116" android:keyLabel="န"/>
         <Key android:codes="4121" android:keyLabel="မ"/>

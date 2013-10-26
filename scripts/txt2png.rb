@@ -4,8 +4,8 @@ require "csv"
 require "pango"
 require "cairo"
 
-WIDTH=800
-HEIGHT=600
+WIDTH=300
+HEIGHT=300
 
 def main
     ARGV.each do |arg|
@@ -29,7 +29,8 @@ def main
         # Layout
         layout = context.create_pango_layout
         layout.width = WIDTH * Pango::SCALE
-        layout.markup = markup
+        layout.text = markup
+        layout.font_description = "Tharlon 20"
 
         # show text
         context.set_source_color (:black)
