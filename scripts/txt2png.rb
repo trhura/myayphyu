@@ -30,10 +30,10 @@ def main
         layout = context.create_pango_layout
         layout.width = WIDTH * Pango::SCALE
         layout.text = markup
-        layout.font_description = "Tharlon 20"
+        layout.font_description = "Tharlon 21"
 
         # show text
-        context.set_source_color (:black)
+        context.set_source_rgb 234,234,234
         context.update_pango_layout layout
         context.show_pango_layout layout
 

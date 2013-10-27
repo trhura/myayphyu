@@ -1,0 +1,5 @@
+ဆ	|တ	|န	|မ	|အ	|ပ	|က	|င	|သ	|စ
+"ေ,horizontalGap=5%p"	|ျ	|ိ	|်	|ာ	|့	|ြ	|ု	|း	
+"shift,keyWidth=15%p,isModifier=true,isSticky=True"	|ဖ	|ထ	|ခ	|လ	|ဘ	|ည	|ာ	|"delete,keyWidth=15%p,isRepeatable=true"
+"done,keyWidth=20%p"	|"123,keyLabel=123,keyWidth=15%p"	|"space,keyWidth=30%p,isRepeatable=true"	|"[46,44],keyLabel=fix,keyWidth=15%p" 	|"return,keyWidth=20%p"
+
