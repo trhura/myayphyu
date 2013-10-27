@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="key_shift">-1</integer>
+    <integer name="key_return">10</integer>
+    <integer name="key_done">-3</integer>
+    <integer name="key_delete">-5</integer>
+    <integer name="key_123">-2</integer>
+    <integer name="key_space">32</integer>
+</resources>
